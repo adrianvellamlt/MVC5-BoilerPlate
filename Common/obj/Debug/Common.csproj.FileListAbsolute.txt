@@ -1,0 +1,11 @@
+D:\OneDrive\Development\MVC5\NetFrameworkApplication\Common\bin\Debug\Common.dll
+D:\OneDrive\Development\MVC5\NetFrameworkApplication\Common\bin\Debug\Common.pdb
+D:\OneDrive\Development\MVC5\NetFrameworkApplication\Common\bin\Debug\EntityFramework.dll
+D:\OneDrive\Development\MVC5\NetFrameworkApplication\Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\OneDrive\Development\MVC5\NetFrameworkApplication\Common\bin\Debug\EntityFramework.xml
+D:\OneDrive\Development\MVC5\NetFrameworkApplication\Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\OneDrive\Development\MVC5\NetFrameworkApplication\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\OneDrive\Development\MVC5\NetFrameworkApplication\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\OneDrive\Development\MVC5\NetFrameworkApplication\Common\obj\Debug\Common.csproj.CopyComplete
+D:\OneDrive\Development\MVC5\NetFrameworkApplication\Common\obj\Debug\Common.dll
+D:\OneDrive\Development\MVC5\NetFrameworkApplication\Common\obj\Debug\Common.pdb
